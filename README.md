@@ -8,7 +8,7 @@
   <p>
     The flatpak repository of Open Authenticator.
     <br />
-    <a href=https://flatpak.openauthenticator.app/openauthenticator.flatpakref"><strong>Flatpakref »</strong></a>
+    <a href="https://flatpak.openauthenticator.app/openauthenticator.flatpakref"><strong>Flatpakref »</strong></a>
     <br />
     <br />
     <a href="https://openauthenticator.app">Website</a>
